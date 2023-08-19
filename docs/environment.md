@@ -11,3 +11,4 @@ The environment variables are defined in the `.env` file. The `.env` file is loc
 ## Workers Environment Variables
 
 The Workers environment variables are defined in the `.dev.vars` file. The `.dev.vars` file is located in all workers projects in the `packages/workers` folder. The `.dev.vars` file is not tracked by git.
+
